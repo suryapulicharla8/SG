@@ -1,0 +1,25 @@
+h1{
+    color: aqua;
+    background-color: blueviolet;
+    display: inline-block;
+}
+h2{
+    color: coral;
+    background-color: aquamarine;
+    display: inline-block;
+}
+h3{
+    color: chartreuse;
+    background-color: darkcyan;
+    display: inline-block;
+}
+h4{
+    color: dimgray;
+    background-color: black;
+    display: inline-block;
+}
+h5{
+    color:dodgerblue;
+    background-color: goldenrod;
+    display: inline-block;
+}
